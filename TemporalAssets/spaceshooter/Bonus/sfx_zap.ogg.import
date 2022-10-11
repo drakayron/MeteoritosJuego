@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/sfx_zap.ogg-235424d00475ab678d79664164fc5d50.oggstr"
+
+[deps]
+
+source_file="res://TemporalAssets/spaceshooter/Bonus/sfx_zap.ogg"
+dest_files=[ "res://.import/sfx_zap.ogg-235424d00475ab678d79664164fc5d50.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
